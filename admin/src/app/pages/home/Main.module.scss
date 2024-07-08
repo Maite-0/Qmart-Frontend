@@ -1,0 +1,173 @@
+.main_container
+{
+    padding: 24;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: calc(100vh - 150px);
+    max-height: calc(100vh - 150px);
+    background: #101c2f;
+    // border-radius: $borderRadiusLG;
+}
+
+.assets_container
+{
+   margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 38%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+}
+
+.mesage_text{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+}
+
+.mesage_text2
+{
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 60%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+}
+.mesage_text3
+{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 65%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+}
+
+.person_list
+{
+    margin-top: 25px;
+    overflow: auto;
+    max-height: calc(100vh - 350px);
+}
+
+.submitButton
+{
+  border-radius: 15px;
+  background-color: #5D356D ;
+}
+
+.filter_menu{
+ margin-top: 2.4%;
+ margin-right: 15px;
+}
+
+.flex_container
+{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.shedules_text1{
+    color: white;
+    width: 100%;
+    margin-left: 40%;
+}
+.employees_text2{
+       color: white;
+   }
+
+.search_input{
+ margin-top: 1.8%;
+ width: 40%;
+ margin-right: 13px;
+}
+
+.input_search{
+    width: 100%;
+}
+.flex_container2{
+    width: 100%;
+    background-color: rgb(16, 16, 28);
+    border-radius: 15px;
+    display: flex;;
+}
+
+.layout
+{
+   max-height: calc(100vh - 20px);
+   min-height: calc(100vh - 18px);
+    background-color: #2F2E32;
+}
+
+.header{
+  position: sticky;
+  top: 0;
+  width: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+}
+.header_content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 48px;
+}
+.content{
+    padding: 0 48px;
+}
+
+.col2{
+    width: 40%;
+}
+.col3{
+    margin-left: 1%;
+}
+
+.clearFilter{
+    border-radius: 15px;
+    background-color: #5D356D;
+}
+.colButon{
+    margin-top: 2%;
+    margin-left: 21%;
+}
+
+.colButon2{
+   margin-top: 2%;
+}
+.main_col{
+    width: 100%;
+}
+.date_picker
+{
+    width: 88%;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "gen-api": "openapi --input ./src/app/services/api/openapi/swagger.json --output ./src/app/services/api/ --client axios NODE_TLS_REJECT_UNAUTHORIZED=0 --indent 2 --exportCore false"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "antd": "^5.18.1",
+    "axios": "^1.7.2",
+    "moment": "^2.30.1",
+    "next": "14.2.4",
+    "openapi-typescript-codegen": "^0.25.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.77.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5"
+  }
+}

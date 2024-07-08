@@ -1,0 +1,342 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/pages/home/Main.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Main_main_container__lHXan {
+  padding: 24;
+  margin-left: 20%;
+  margin-right: 20%;
+  min-height: calc(100vh - 150px);
+  max-height: calc(100vh - 150px);
+  background: #101c2f;
+}
+
+.Main_assets_container__ku1B5 {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  top: 38%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+}
+
+.Main_mesage_text__AwOcl {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+}
+
+.Main_mesage_text2__qDhn2 {
+  margin-top: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  top: 60%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+}
+
+.Main_mesage_text3__0vPrk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  top: 65%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+}
+
+.Main_person_list__Rnuh5 {
+  margin-top: 25px;
+  overflow: auto;
+  max-height: calc(100vh - 350px);
+}
+
+.Main_submitButton__4WKqV {
+  border-radius: 15px;
+  background-color: #5D356D;
+}
+
+.Main_filter_menu__k4Ief {
+  margin-top: 2.4%;
+  margin-right: 15px;
+}
+
+.Main_flex_container__VdexO {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.Main_shedules_text1__csldp {
+  color: white;
+  width: 100%;
+  margin-left: 40%;
+}
+
+.Main_employees_text2__Xh0im {
+  color: white;
+}
+
+.Main_search_input__jXpW6 {
+  margin-top: 1.8%;
+  width: 40%;
+  margin-right: 13px;
+}
+
+.Main_input_search__2zeDc {
+  width: 100%;
+}
+
+.Main_flex_container2__MFUR4 {
+  width: 100%;
+  background-color: rgb(16, 16, 28);
+  border-radius: 15px;
+  display: flex;
+}
+
+.Main_layout__0Ll7H {
+  max-height: calc(100vh - 20px);
+  min-height: calc(100vh - 18px);
+  background-color: #2F2E32;
+}
+
+.Main_header__aqvCg {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}
+
+.Main_header_content__Ylt41 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0 48px;
+}
+
+.Main_content__tr5sk {
+  padding: 0 48px;
+}
+
+.Main_col2__g3ZET {
+  width: 40%;
+}
+
+.Main_col3__2EDVE {
+  margin-left: 1%;
+}
+
+.Main_clearFilter__xX6UM {
+  border-radius: 15px;
+  background-color: #5D356D;
+}
+
+.Main_colButon__gtLWA {
+  margin-top: 2%;
+  margin-left: 21%;
+}
+
+.Main_colButon2___FVMc {
+  margin-top: 2%;
+}
+
+.Main_main_col__rDR4n {
+  width: 100%;
+}
+
+.Main_date_picker__k2kPA {
+  width: 88%;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/pages/gameshedules/SheduleList.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SheduleList_wrap_container__kCAsr {
+  margin-left: 10%;
+  background-color: #878282;
+  margin-right: 10%;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  padding: 10px;
+  display: flex;
+}
+
+.SheduleList_row_container__7_1Vk {
+  width: 95%;
+}
+
+.SheduleList_column_container__PQln8 {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.SheduleList_avatar_container__eiheN {
+  background-color: inherit;
+  color: #666363;
+  vertical-align: middle;
+  border: 2px solid #5D356D;
+  margin-top: 6px;
+}
+
+.SheduleList_delete_column__C2XuY {
+  background-color: aqua;
+  width: 50%;
+}
+
+.SheduleList_delete_icon__AkuAH {
+  float: right;
+  margin-top: 0.5%;
+}
+
+.SheduleList_column_container1__0_iPP {
+  margin-top: 1.5%;
+  margin-left: 3%;
+}
+
+.SheduleList_column_text__Ahyip {
+  color: white;
+}
+
+.SheduleList_column_text1__kTOAz {
+  margin-top: 1.5%;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/pages/gameresults/GameResultList.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.GameResultList_wrap_container__iLEMe {
+  margin-left: 10%;
+  background-color: #878282;
+  margin-right: 10%;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  padding: 10px;
+  display: flex;
+}
+
+.GameResultList_row_container__dFCuA {
+  width: 95%;
+}
+
+.GameResultList_column_container__IHqpy {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.GameResultList_avatar_container__oJN5v {
+  background-color: inherit;
+  color: #666363;
+  vertical-align: middle;
+  border: 2px solid #5D356D;
+  margin-top: 6px;
+}
+
+.GameResultList_delete_column__P_h9C {
+  background-color: aqua;
+  width: 50%;
+}
+
+.GameResultList_delete_icon__HWSaN {
+  float: right;
+  margin-top: 0.5%;
+}
+
+.GameResultList_column_container1__I2hx4 {
+  margin-top: 1.5%;
+  margin-left: 3%;
+}
+
+.GameResultList_column_text__niirP {
+  color: white;
+}
+
+.GameResultList_column_text45__LU2v6 {
+  color: white;
+  margin-top: 1%;
+}
+
+.GameResultList_column_text1__p47KM {
+  margin-top: 1.5%;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/app/pages/playerprofiles/ProfileList.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.ProfileList_wrap_container__dS6MO {
+  margin-left: 10%;
+  background-color: #878282;
+  margin-right: 10%;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  padding: 10px;
+  display: flex;
+}
+
+.ProfileList_row_container__X_20n {
+  width: 95%;
+}
+
+.ProfileList_column_container__LDfQX {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.ProfileList_avatar_container__EkXJ9 {
+  background-color: inherit;
+  color: #666363;
+  vertical-align: middle;
+  border: 2px solid #5D356D;
+  margin-top: 6px;
+}
+
+.ProfileList_delete_column__DKlJO {
+  background-color: aqua;
+  width: 50%;
+}
+
+.ProfileList_delete_icon__GURYa {
+  float: right;
+  margin-top: 0.5%;
+}
+
+.ProfileList_column_container1__uhua1 {
+  margin-top: 1.5%;
+  margin-left: 3%;
+}
+
+.ProfileList_column_text__UTT5G {
+  color: white;
+}
+
+.ProfileList_column_text45__wu3LF {
+  color: white;
+  margin-top: 1%;
+}
+
+.ProfileList_column_text1__KgdwG {
+  margin-top: 1.5%;
+}

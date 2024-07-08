@@ -1,0 +1,53 @@
+.wrap_container
+{
+    margin-left: 10%;
+    background-color: #878282;
+    margin-right: 10%;
+    border-radius: 15px;
+    margin-bottom : 30px;
+    padding: 10px; 
+    display: flex;  
+}
+
+.row_container {
+ width: 95%;
+}
+
+.column_container {
+   height: 40px;
+   margin-left:  10px;
+}
+
+.avatar_container {
+    background-color: inherit;
+    color: #666363;
+    vertical-align: middle;
+    border:  2px solid #5D356D;
+    margin-top: 6px;
+}
+
+.delete_column{
+    background-color: aqua;
+    width: 50%;
+}
+
+.delete_icon{
+    float: right;
+    margin-top: 0.5%;
+}
+.column_container1{
+    margin-top: 1.5%;
+    margin-left: 3%;
+}
+
+.column_text{
+    color: white;
+}
+.column_text45{
+    color: white;
+    margin-top: 1%;
+}
+
+.column_text1{
+    margin-top: 1.5%;
+}
