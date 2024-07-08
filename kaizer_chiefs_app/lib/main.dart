@@ -150,7 +150,7 @@ class _CommentCardState extends State<CommentCard> {
                 ),
                 Text(
                   widget.comment.createdAt != null
-                      ? '${widget.comment.createdAt!.toLocal()}'.split(' ')[0]
+                      ? '${widget.comment.createdAt!.toLocal()}'.split('.')[0]
                       : '',
                   style: const TextStyle(
                     fontSize: 12,
@@ -242,7 +242,7 @@ class ReplyCard extends StatelessWidget {
               ),
               Text(
                 reply.createdAt != null
-                    ? '${reply.createdAt!.toLocal()}'.split(' ')[0]
+                    ? '${reply.createdAt!.toLocal()}'.split('.')[0]
                     : '',
                 style: const TextStyle(
                   fontSize: 12,

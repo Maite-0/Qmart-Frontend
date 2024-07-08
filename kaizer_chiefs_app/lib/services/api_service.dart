@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/comment.dart';
 
 class ApiService {
-  final String baseUrl = 'https://4137-102-32-80-44.ngrok-free.app/api';
+  final String baseUrl = 'https://assesmentapi-production.up.railway.app/api';
   Future<List<Comment>> fetchComments() async {
     final response = await http.get(Uri.parse('$baseUrl/comments'));
 
